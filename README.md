@@ -58,7 +58,7 @@ Then open e.g. rnn_from_scratch.ipynb and follow the notebook flow.
 - You can experiment by changing network architecture (number of layers, hidden size), dataset, learning rate, sequence length etc.
 - Use the code as a template to embed RNNs into your own projects (e.g., time-series forecasting, language modelling, sequence classification).
 
-Dependencies
+## Dependencies
 Here are typical Python packages used (you can specify exact versions):
 - numpy
 - pandas
